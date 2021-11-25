@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListFiltererTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-11-25T17:47:57" hostname="LAPTOP-I2C5740T" time="0.008">
+  <properties/>
+  <testcase name="positiveFilter()" classname="com.aor.numbers.ListFiltererTest" time="0.001"/>
+  <testcase name="divisibleByFilter3()" classname="com.aor.numbers.ListFiltererTest" time="0.002"/>
+  <testcase name="divisibleByFilter5()" classname="com.aor.numbers.ListFiltererTest" time="0.001"/>
+  <testcase name="filter()" classname="com.aor.numbers.ListFiltererTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

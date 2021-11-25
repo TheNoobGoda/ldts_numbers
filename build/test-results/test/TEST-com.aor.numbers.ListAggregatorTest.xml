@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aor.numbers.ListAggregatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2021-11-25T17:47:57" hostname="LAPTOP-I2C5740T" time="0.056">
+  <properties/>
+  <testcase name="distinct_bug_8726()" classname="com.aor.numbers.ListAggregatorTest" time="0.037"/>
+  <testcase name="max_bug_7263()" classname="com.aor.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="max()" classname="com.aor.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="min()" classname="com.aor.numbers.ListAggregatorTest" time="0.002"/>
+  <testcase name="sum()" classname="com.aor.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="max1()" classname="com.aor.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="min2()" classname="com.aor.numbers.ListAggregatorTest" time="0.0"/>
+  <testcase name="min3()" classname="com.aor.numbers.ListAggregatorTest" time="0.0"/>
+  <testcase name="min4()" classname="com.aor.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="sum2()" classname="com.aor.numbers.ListAggregatorTest" time="0.0"/>
+  <testcase name="sum3()" classname="com.aor.numbers.ListAggregatorTest" time="0.001"/>
+  <testcase name="distinct()" classname="com.aor.numbers.ListAggregatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
